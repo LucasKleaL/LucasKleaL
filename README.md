@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LucasKleaL's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL)](https://github.com/LucasKleaL/github-readme-stats)
+
 <!--
 **LucasKleaL/LucasKleaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
