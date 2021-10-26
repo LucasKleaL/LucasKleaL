@@ -2,20 +2,20 @@
   Hi there, welcome to my Github! 👋
 </h1>
 
-<h3>
+<h3 align="center">
   I'm a Bachelor in Information Systems Student, at Pontifical Catholic University from Paraná, now I'm on the 4nd semester.
 </h3>
 
-<br>
+<h2 align="left">
+  About me 📌
+</h2>
 
-## About me 📌
+##### 👨🏻‍💻 My favorite development area is web and I like a lot make interfaces and web applications. 
+##### 🚀 I'm a space enthusiast and I'm projecting a cubesat.
+##### 🔭 My favorite hobby is amateur astronomy and astrophotography.
+##### 🖥️ What I most do in my free time is play video games (on pc, of course).
 
-### 👨🏻‍💻 My favorite development area is web and I like a lot make interfaces and web applications. 
-### 🚀 I'm a space enthusiast and I'm projecting a cubesat.
-### 🔭 My favorite hobby is amateur astronomy and astrophotography.
-### 🖥️ What I most do in my free time is play video games (on pc, of course).
-
-![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical)
+![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&show_icons=true&theme=radical&layout=compact)
 
 <!--
