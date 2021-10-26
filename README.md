@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github! 👋
 
-![LucasKleaL's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical)
+![LucasKleaL's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical) <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&show_icons=true&theme=radical)
 
 <!--
