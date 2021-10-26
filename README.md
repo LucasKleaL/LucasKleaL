@@ -1,11 +1,7 @@
 ### Hi there, welcome to my Github! 👋
 
-<a href="https://github.com/anuraghazra/LucasKleaL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/LucasKleaL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&show_icons=true&theme=radical&layout=compact" />
-</a>
+![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&show_icons=true&theme=radical&layout=compact)
 
 <!--
 **LucasKleaL/LucasKleaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
