@@ -8,12 +8,12 @@
 
 <br>
 
-##About me 📌
+## About me 📌
 
-👨🏻‍💻 My favorite development area is web and I like a lot make interfaces and web applications.
-🚀 I'm a space enthusiast and I'm projecting a cubesat.
-🔭 My favorite hobby is amateur astronomy and astrophotography.
-🔭 My favorite hobby is amateur astronomy and astrophotography.
+### 👨🏻‍💻 My favorite development area is web and I like a lot make interfaces and web applications. 
+### 🚀 I'm a space enthusiast and I'm projecting a cubesat.
+### 🔭 My favorite hobby is amateur astronomy and astrophotography.
+### 🖥️ What I most do in my free time is play video games (on pc, of course).
 
 ![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&show_icons=true&theme=radical&layout=compact)
