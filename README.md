@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a Bachelor in Information Systems Student, at Pontifical Catholic University from Paraná, now I'm on the 4nd semester.
+  I'm a Bachelor in Information Systems Student, at Pontifical Catholic University from Paraná, now I'm on the 5nd semester.
 </h3>
 
 ## About me 📌
@@ -15,7 +15,7 @@
 
 <br/>
 
-![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical) <br/>
+![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&hide=jupyternotebook&show_icons=true&theme=radical) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&show_icons=true&theme=radical&layout=compact)
 
 <!--
