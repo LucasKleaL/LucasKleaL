@@ -15,7 +15,7 @@
 
 <br/>
 
-![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical&custom_title="LucasKleaL's Github stats") <br/>
+![LucasKleaL's Github stats](https://github-readme-stats.vercel.app/api?username=LucasKleaL&show_icons=true&theme=radical&custom_title) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKleaL&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact&langs_count=6)
 
 <!--
