@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a Bachelor in Information Systems Student, at Pontifical Catholic University from Paraná, now I'm on the 5nd semester.
+  I'm a Bachelor in Information Systems Student, at Pontifical Catholic University from Paraná, now I'm on the 7nd semester.
 </h3>
 
 ## About me 📌
