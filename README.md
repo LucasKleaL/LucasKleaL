@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a 21 years old Full-Stack Software Developer from Brazil 🇧🇷
+  I'm a 24 years old Full-Stack Software Developer from Brazil 🇧🇷
 </h3>
 
 ## 📌 About me 
